@@ -8,7 +8,7 @@
               <div class="full">
                 <div class="center-desk">
                   <div class="logo">
-                    <a href="index.html"><img src="images/logo.png" alt="#" /></a>
+                    <a href="index.html"><img src="{{URL::asset(plantillaPublica/images/logo.png)}}" alt="#" /></a>
                   </div>
                 </div>
               </div>
