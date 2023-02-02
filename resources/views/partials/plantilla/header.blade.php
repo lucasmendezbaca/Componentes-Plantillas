@@ -8,7 +8,7 @@
               <div class="full">
                 <div class="center-desk">
                   <div class="logo">
-                    <a href="index.html"><img src="{{URL::asset(plantillaPublica/images/logo.png)}}" alt="#" /></a>
+                    <a href="index.html"><img src="{{URL::asset('plantillaPublica/images/logo.png')}}" alt="#" /></a>
                   </div>
                 </div>
               </div>
@@ -25,7 +25,7 @@
                       <li> <a href="#testimonial">Testomonial</a> </li>
                       <li> <a href="#contact">Contact Us</a> </li>
                      
-                     <li> <a href="#"><img src="icon/icon_b.png" alt="#" /></a></li>
+                     <li> <a href="#"><img src="{{URL::asset('plantillaPublica/icon/icon_b.png')}}" alt="#" /></a></li>
                      </ul>
                    </nav>
                  </div>
@@ -65,7 +65,7 @@
                   </div>
                   <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12">
                     <div class="images_box">
-                      <figure><img src="images/img2.png"></figure>
+                      <figure><img src="{{URL::asset('plantillaPublica/images/img2.png')}}"></figure>
                     </div>
                   </div>
                 </div>

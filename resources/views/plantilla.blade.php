@@ -1,4 +1,6 @@
-@include('partials.head')
-@include('partials.header')
-    <h1>Plantilla</h1>
-@include('partials.footer')
+@include('partials.plantilla.head')
+@include('partials.plantilla.header')
+@include('partials.plantilla.about')
+@include('partials.plantilla.vegetable')
+@include('partials.plantilla.contact')
+@include('partials.plantilla.footer')

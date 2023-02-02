@@ -20,3 +20,7 @@ Route::get('/', function () {
 Route::get('/plantilla', function () {
     return view('plantilla');
 });
+
+Route::get('/plantilla-privada', function () {
+    return view('plantillaPrivada');
+});

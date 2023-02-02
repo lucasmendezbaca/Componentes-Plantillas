@@ -1,0 +1,6 @@
+@include('partials.plantillaPrivada.head')
+@include('partials.plantillaPrivada.header')
+@include('partials.plantillaPrivada.hero')
+@include('partials.plantillaPrivada.feature')
+@include('partials.plantillaPrivada.contact')
+@include('partials.plantillaPrivada.footer')
